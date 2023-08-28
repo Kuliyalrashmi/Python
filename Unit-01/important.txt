@@ -1,0 +1,4 @@
+#create API document
+python3 -m pydoc -w sample
+where as sample is the name of sample.py
+                                   
